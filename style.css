@@ -1,0 +1,505 @@
+body {
+   background-color: #fff;
+}
+h1 {
+   color: white;
+   padding-top: 20px;
+}
+header {
+   background-image: url(images/kosmos.jpg);
+}
+div img {
+   background-size: contain;
+}
+.carousel-item a{
+   color:  #fff;
+   font-size: 20px;
+}
+.carousel-item a:hover{
+   color: blue;
+}
+.open-hours a {
+   margin-top: 10px;
+ color: #fff;
+}
+.open-hours {
+ color: #fff;
+}
+#multi-tabs {
+   background: #050618;
+   margin: 0;
+}
+.search {
+   width: 250px;
+   height: auto;
+   margin-left: 10px;
+}
+.card-catalogue {
+   color:  #fff; 
+}
+.catalogue {
+   margin-top: 15px;
+   color: white;
+}
+.card-title:hover {
+color: darkblue;
+text-decoration: underline;
+}
+.alt-bg {
+   background: white;
+   color: black;
+}
+.bi {
+   font-size: 40px;
+   margin-left: 30px;
+}
+.our-serwices-box a {
+ color: black;
+ text-decoration: none;
+}
+.our-serwices-box a:hover {
+   text-decoration: underline;
+   color: darkblue;
+}
+.carousel a:hover {
+ text-decoration: underline;
+ color: darkblue;
+}
+.card-group {
+   margin-bottom: 10px;
+   font-family: "Cookie", "cursive";
+   font-size: 1.6rem;
+   text-align: right;
+}
+.card-group a {
+   text-decoration: none;
+   color: black;
+}
+.serwices {
+margin-left: 20px;
+}
+.serwices-eye {
+margin-left: 10px;
+}
+.open-hours-info {
+   margin-top: 10px;
+   color: white;
+   margin-left: 10px;
+}
+.logo {
+   padding:  10px;
+}
+.site-footer {
+    background-image: url(images/kosmos.jpg);
+    color: white;  
+}
+.card-group {
+   background-image: url(images/kosmos.jpg);
+}
+
+footer {
+   color: black;
+   position: fixed;
+        bottom:0;
+   padding: 10px 0;
+   width: 100%;
+   height: 50px;
+   position: sticky;
+   z-index: 9999;
+   background-color: white;
+}
+.socjal-hgw a {
+   color:  white;
+}
+.article {
+   background: white;
+}
+
+.e-mail {
+   color: white;
+   text-decoration: none;
+   margin-left: 30%;
+}
+.address {
+   color: white;
+   margin-top: 10px;
+}
+.date {
+   margin-left: 20px;
+   margin-top: 10px;
+}
+.bi-facebook {
+   font-size: 30px;
+}
+.bi-instagram {
+   font-size: 30px;
+}
+.bi-youtube {
+   font-size: 30px;
+}
+.socjal-hgw {
+   margin-top: 20px;
+}
+.open-hours-info-time {
+   margin-left: 10px;
+   font-weight: bold;
+   color: white;
+   font-size: 18px;
+}
+.title {
+ text-decoration: none;
+ color:  #fff;
+}
+.title:hover {
+ color: #fff;
+}
+.title-on-page {
+   padding: 20px;
+}
+.map-level {
+   margin-left: 45%;
+   margin-bottom: 10px;
+}
+.alt-color a {
+   text-decoration: none;
+   color: #fff;
+   
+}
+.break {
+   color: white;
+}
+.services {
+   background: #050618;
+   padding-top:  10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+}
+.text {
+   margin-left: 15px;
+   margin-bottom: 20px;
+   margin-top: 10px;
+}
+.position-photos {
+   text-align: center;
+   margin-top: 10px;
+}
+.paragraph {
+   text-align: center;
+   font-weight: bold;
+   margin-top: 10px;
+}
+.big-title {
+   background: white;
+   
+}
+.bg-color {
+ background: lightgrey;
+}
+.figure-img {
+   margin-top: 20px;
+}
+.images-training img {
+   height: 300px; 
+   width: 400px;
+}
+.opening-hours {
+   margin-top: 20px;
+   margin-left: 10px;
+}
+.text-main {
+   margin-top: 20px;
+   margin-bottom: 10px;
+}
+.navbar-brand {
+   margin-left: 10px;
+}
+
+.text-article {
+   margin-left: 15px;
+   margin-right: 10px;
+}
+.title-page {
+   background: lightgrey;
+   height: 65px;
+   padding-top: 15px;
+   padding-left: 10px;
+   margin-top: 10px;
+}
+.small-title {
+   background: lightgrey;
+   height: 60px;
+   padding-top: 17px;
+   padding-left: 10px;
+  
+}
+.subtitle {
+   background: lightgrey;
+   height: 60px;
+   padding-top: 20px;
+   padding-left: 10px;
+}
+.regulations {
+   background: #050618;
+   padding-top:  10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+}
+.training {
+   background: #050618;
+   padding-top:  10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+}
+@media all and (max-width: 576px) {
+   .title {
+      margin-left: 90px;
+   }
+   .open-hours-info {
+      margin-left: 170px;
+   }
+   .open-hours {
+      margin-left: 160px;
+   }
+   .open-hours-info-time {
+      margin-left: 170px;
+   }
+   .socjal-hgw {
+      margin-left: 110px;
+   }
+   .address {
+      padding-left: 10px;
+   }
+   .date {
+      margin-left: 41%;
+   }
+   .year {
+       margin-left: 35%;
+   }
+   .card-catalogue {
+      margin-left: 3%;
+   }
+   .catalogue {
+      margin-left: 10px;
+   }
+   .title-page {
+   background: lightgrey;
+   height: 65px;
+   padding-top: 5px;
+   padding-left: 10px;
+   margin-top: 10px;
+   }
+   .form {
+      border: solid #050618;
+      background: #050618;
+      margin-bottom: 10px;
+      padding-top: 5px;
+   }
+   .form input {
+      border: 2px solid;
+      margin-bottom: 5px;
+   }
+   .form button {
+      border: 2px solid; 
+   }
+   .form .message {
+      color: white;
+      margin-left: 2px;
+      margin-bottom: 5px;
+      
+   }
+}
+@media all and (min-width: 577px) {
+   .open-hours-info {
+      margin-left: 15px;
+   }
+   .open-hours {
+      margin-left: 10px;
+   }
+    .open-hours-info-time {
+      margin-left: 15px;
+    }
+   
+}
+
+article li {
+   list-style: circle;
+}
+
+.login-page {
+  width: 360px;
+  padding: 2% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #050618;
+  width: 50%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: darkred;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: black;
+  font-size: 16px;
+}
+.form .message a {
+  color: lightcoral;
+  text-decoration: none;
+}
+.form .register-form {
+  display: none;
+}
+.message2 {
+   padding-top: 10px;
+}
+
+section .row {
+   margin: 0;
+}
+.book-img {
+   width: 60px;
+   height: 100px;
+   margin-top: 10px;
+   margin-right: 10px;
+   float: left;
+}
+.btn-outline-light {
+   margin-left: 30px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   transition: .5s;
+}
+.bi-arrow-left {
+   color: white;
+   font-size: 2rem;
+   margin-left: 10px;
+}
+.form-box label {
+   display: inline-block;
+   margin-bottom: 5px;
+}
+
+
+.form-box input {
+   width: 100%;
+   padding: 10px;
+   font-size: 16px;
+   border: 1px solid rgb(197, 197, 197);
+   border-radius: 5px;
+}
+
+.form-box.error input {
+   border: 1px solid rgb(0, 137, 250);
+   background-color: rgba(0, 137, 250, .1);
+}
+
+.form-box .error-text {
+   visibility: hidden;
+   margin: 5px 0 0 10px;
+   font-size: 14px;
+   color: rgb(0, 137, 250);
+}
+
+.form-box.error .error-text {
+   visibility: visible;
+}
+
+.control-buttons {
+   display: flex;
+   justify-content: flex-end;
+}
+
+.send,
+.clear,
+.close {
+   display: block;
+   padding: 10px 0;
+   margin-left: 10px;
+   width: 100px;
+   font-size: 18px;
+   background-color: rgb(0, 140, 255);
+   color: #fff;
+   border: none;
+   border-radius: 8px;
+   cursor: pointer;
+   transition: background-color .3s;
+}
+
+.send:hover,
+.clear:hover,
+.close:hover {
+   background-color: rgb(0, 107, 194);
+}
+
+.popup {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   position: absolute;
+   top: -400px;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 600px;
+   height: 200px;
+   background-color: rgb(255, 255, 255);
+   border-radius: 8px;
+   border: 2px solid black;
+   transition: top .5s;
+}
+
+.popup p {
+   font-size: 28px;
+}
+
+.popup button {
+   margin-top: 20px;
+}
+
+.show-popup {
+   top: 150px;
+}
+.color {
+ color: #fff;
+}
+
+.modal-window button {
+   background-color: #050618;
+}
+
+.modal-window {
+   margin-right: 80px;
+}
+
+
