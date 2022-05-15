@@ -252,19 +252,19 @@ footer {
 }
 @media all and (max-width: 576px) {
    .title {
-      margin-left: 90px;
+      margin-left: 50px;
    }
    .open-hours-info {
-      margin-left: 170px;
+      margin-left: 130px;
    }
    .open-hours {
-      margin-left: 160px;
+      margin-left: 120px;
    }
    .open-hours-info-time {
-      margin-left: 170px;
+      margin-left: 130px;
    }
    .socjal-hgw {
-      margin-left: 110px;
+      margin-left: 70px;
    }
    .address {
       padding-left: 10px;
@@ -348,7 +348,7 @@ article li {
   border: 0;
   margin: 0 0 15px;
   padding: 15px;
-  font-size: 14px;
+  font-size: 16px;
 }
 .form button {
   font-family: "Roboto", sans-serif;
@@ -468,7 +468,7 @@ section .row {
    align-items: center;
    flex-direction: column;
    position: absolute;
-   top: -400px;
+   top: -600px;
    left: 50%;
    transform: translate(-50%, -50%);
    width: 600px;
