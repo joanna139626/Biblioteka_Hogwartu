@@ -100,13 +100,14 @@ margin-left: 10px;
 footer {
    color: black;
    position: fixed;
-        bottom:0;
+        bottom: 3px;
    padding: 10px 0;
    width: 100%;
-   height: 50px;
+   height: 60px;
    position: sticky;
    z-index: 9999;
    background-color: white;
+   
 }
 .socjal-hgw a {
    color:  white;
@@ -155,6 +156,9 @@ footer {
 }
 .title-on-page {
    padding: 20px;
+}
+.login-title {
+   text-align: center;
 }
 .map-level {
    margin-left: 45%;
