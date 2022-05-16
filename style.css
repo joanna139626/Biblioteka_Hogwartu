@@ -471,7 +471,7 @@ section .row {
    top: -600px;
    left: 50%;
    transform: translate(-50%, -50%);
-   width: 600px;
+   width: 300px;
    height: 200px;
    background-color: rgb(255, 255, 255);
    border-radius: 8px;
