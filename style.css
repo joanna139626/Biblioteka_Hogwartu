@@ -96,7 +96,6 @@ margin-left: 10px;
 .card-group {
    background-image: url(images/kosmos.jpg);
 }
-
 footer {
    color: black;
    position: fixed;
@@ -107,7 +106,6 @@ footer {
    position: sticky;
    z-index: 9999;
    background-color: white;
-   
 }
 .socjal-hgw a {
    color:  white;
@@ -115,7 +113,6 @@ footer {
 .article {
    background: white;
 }
-
 .e-mail {
    color: white;
    text-decoration: none;
@@ -159,6 +156,7 @@ footer {
 }
 .login-title {
    text-align: center;
+   padding: 10px;
 }
 .map-level {
    margin-left: 45%;
@@ -167,7 +165,6 @@ footer {
 .alt-color a {
    text-decoration: none;
    color: #fff;
-   
 }
 .break {
    color: white;
@@ -217,7 +214,6 @@ footer {
 .navbar-brand {
    margin-left: 10px;
 }
-
 .text-article {
    margin-left: 15px;
    margin-right: 10px;
@@ -234,7 +230,6 @@ footer {
    height: 60px;
    padding-top: 17px;
    padding-left: 10px;
-  
 }
 .subtitle {
    background: lightgrey;
@@ -324,7 +319,6 @@ footer {
     }
    
 }
-
 article li {
    list-style: circle;
 }
@@ -413,8 +407,6 @@ section .row {
    display: inline-block;
    margin-bottom: 5px;
 }
-
-
 .form-box input {
    width: 100%;
    padding: 10px;
@@ -422,28 +414,23 @@ section .row {
    border: 1px solid rgb(197, 197, 197);
    border-radius: 5px;
 }
-
 .form-box.error input {
    border: 1px solid rgb(0, 137, 250);
    background-color: rgba(0, 137, 250, .1);
 }
-
 .form-box .error-text {
    visibility: hidden;
    margin: 5px 0 0 10px;
    font-size: 14px;
    color: rgb(0, 137, 250);
 }
-
 .form-box.error .error-text {
    visibility: visible;
 }
-
 .control-buttons {
    display: flex;
    justify-content: flex-end;
 }
-
 .send,
 .clear,
 .close {
@@ -459,13 +446,11 @@ section .row {
    cursor: pointer;
    transition: background-color .3s;
 }
-
 .send:hover,
 .clear:hover,
 .close:hover {
    background-color: rgb(0, 107, 194);
 }
-
 .popup {
    display: flex;
    justify-content: center;
@@ -482,7 +467,6 @@ section .row {
    border: 2px solid black;
    transition: top .5s;
 }
-
 .popup p {
    font-size: 28px;
 }
